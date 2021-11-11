@@ -1,0 +1,167 @@
+.NavbarLogo {
+  background-color: #dcdcdc;
+  width: 720pxS
+}
+.Navbar-logo {
+  height: 55px;
+  pointer-events: none;
+  padding: 10px;
+}
+.Navbar-cornerscard {
+  height: 565px;
+}
+.Footer {
+  background-color: #dcdcdc;
+}
+.row {
+  padding: 10px;
+}
+.Sites-logo {
+  height: 75px;
+  pointer-events: none;
+  padding: 10px;
+}
+.btn-action {
+  margin: 10px;
+  padding: 10px;
+}
+.btn-action:hover {
+  background-color: #BAC62A;
+  text-transform: uppercase;
+    border-radius: 8px;
+}
+.syarat {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: left;
+}
+.descsyarat {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 14px;
+  letter-spacing: 0.93px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.cardterm {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 636px;
+  text-align: left;
+}
+.desccardterm {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 14px;
+  letter-spacing: 0.93px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.kebijakan {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: left;  
+}
+.decskebijakan {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 14px;
+  letter-spacing: 0.93px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.privacy {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 636px;
+  text-align: left;
+}
+.descprivacy {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 14px;
+  letter-spacing: 0.93px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.prequently {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: left;
+}
+.descprequently {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.colorprequently {
+  color: #BAC62A;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.pertanyaan {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: left;
+}
+.descpertanyaan {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
+.corneston {
+  color: #000000;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: left;
+}
+.rescorn {
+  color: #757575;
+  font-family: DINNextLTPro;
+  font-size: 18px;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+  width: 552px;
+  text-align: justify;
+}
